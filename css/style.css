@@ -1,0 +1,159 @@
+.main{
+    background-color: #292929;
+    font-family: 'Manrope', serif;
+        
+}
+.navbar{
+    padding-top: 15px!important;
+    padding-bottom: 15px!important;
+}
+.nav-link{
+    font-size: 18px!important;
+}
+.hero{
+    margin-top: 66px;
+}
+
+.hero-img{
+    margin-top: 3em;
+}    
+
+.hero-title{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 54px;
+    line-height: 64px;
+    margin-left: 96px;
+}
+
+.hero-text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    margin-left: 96px;
+}
+
+.hero-btn{
+    margin-left: 96px;  
+}
+
+.work-img:hover img{
+        opacity: 0.5;
+}
+
+.work-img {
+    position: relative;
+  }
+
+  .work-img img {
+    width: 100%;
+    opacity: 1;
+    transition: opacity 0.5s;
+  }
+.work-img .text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+  }
+/* 
+.hero-title{
+    position: absolute;
+    width: 824px;
+    height: 192px;
+    left: 96px;
+    top: 240px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 54px;
+    line-height: 64px;
+    color: #000000;
+}
+
+.hero-text{
+    position: absolute;
+    width: 824px;
+    height: 90px;
+    left: 96px;
+    top: 456px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    /* or 150% */
+    /* color: #000000
+}
+
+.hero-btn{
+    box-sizing: border-box;
+    position: absolute;
+    width: 341.57px;
+    height: 57px;
+    left: 96px;
+    top: 634px;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 4px;
+}
+
+.f-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+    gap: 32px;
+
+    position: absolute;
+    height: 48px;
+    left: 96px;
+    top: 836px;
+}
+
+.img00{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+    gap: 32px;
+
+    position: absolute;
+    width: 198px;
+    height: 48px;
+    left: 96px;
+    top: 836px;
+
+}
+
+.img01{
+    position: absolute;
+    width: 612px;
+    height: 888px;
+    left: 96px;
+    top: 964px;
+    border-radius: 4px;
+}
+
+.img01:hover{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/inc/Bookstore.png"), #292929;
+}
+
+.img02{    
+    position: absolute;
+    width: 612px;
+    height: 888px;
+    left: 732px;
+    top: 1102px;
+
+    background: url(3ffea8135910975.Y3JvcCwxMDgwLDg0NCwwLDExNw.png), #292929;
+    border-radius: 4px;
+}  */
